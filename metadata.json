@@ -1,0 +1,5 @@
+{
+  "name": "Werewolf Moderator Assist",
+  "description": "A digital assistant for Werewolf moderators to track roles, night order, and player status in real-life games.",
+  "requestFramePermissions": []
+}
